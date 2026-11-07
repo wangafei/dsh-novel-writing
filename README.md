@@ -18,10 +18,10 @@ DeepSeek Harness 的长篇小说写作技能包：把「构思 → 大纲 → �
 在 DeepSeek Harness 的「设置 → 插件 → 安装」中填入：
 
 ```
-github:<owner>/dsh-novel-writing#v1.0.0
+github:wangafei/dsh-novel-writing#v1.0.0
 ```
 
-或使用完整地址 `git+https://github.com/<owner>/dsh-novel-writing.git#v1.0.0`。安装后 6 个技能会出现在技能列表中。
+或使用完整地址 `git+https://github.com/wangafei/dsh-novel-writing.git#v1.0.0`。安装后 6 个技能会出现在技能列表中。
 
 ## 目录结构
 
