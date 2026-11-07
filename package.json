@@ -1,0 +1,23 @@
+{
+  "name": "@local/dsh-novel-writing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Long-form novel writing skills for DeepSeek Harness: premise, outline, mind map, characters, continuity, drafting.",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "assets",
+    "cordis.patch.yml"
+  ],
+  "license": "MIT",
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

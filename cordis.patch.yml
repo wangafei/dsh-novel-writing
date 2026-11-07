@@ -1,0 +1,3 @@
+- insert:
+    - id: novel-writing-skills
+      name: '@local/dsh-novel-writing'
